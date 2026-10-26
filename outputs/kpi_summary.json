@@ -1,0 +1,15 @@
+{
+  "requests": 8200,
+  "resolved": 8105,
+  "open": 95,
+  "overall_sla_met_resolved": 0.6651449722393584,
+  "first_response_sla_met": 0.7319512195121951,
+  "median_resolution_hours": 13.82,
+  "p90_resolution_hours": 47.06000000000002,
+  "open_over_target": 89,
+  "open_over_24h": 95,
+  "handoff_rate": 0.6308536585365854,
+  "avg_handoffs": 1.0645121951219512,
+  "reopen_rate": 0.22329268292682927,
+  "csat_mean": 3.332439024390244
+}
